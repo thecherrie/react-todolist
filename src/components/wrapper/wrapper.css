@@ -1,0 +1,47 @@
+.wrapper {
+  background: whitesmoke;
+  border-radius: 20px;
+  width: 40%;
+  margin: auto;
+  margin-top: 25vh;
+
+  -webkit-box-shadow: 6px 5px 8px 1px rgba(0,0,0,0.15);
+  -moz-box-shadow: 6px 5px 8px 1px rgba(0,0,0,0.15);
+  box-shadow: 6px 5px 8px 1px rgba(0,0,0,0.15);
+
+}
+
+.inner-wrapper {
+  padding: 40px;
+}
+
+.search {
+display: grid;
+grid-template-columns: 13fr 1fr;
+margin-bottom: 15px;
+}
+
+input {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+}
+
+.btn-add {
+  padding: 10px;
+  border-radius: 50%;
+  font-size: 18px;
+  margin-left: 10px;
+  border: 0;
+  background: #089cff;
+  color: white;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+h1 {
+
+}
